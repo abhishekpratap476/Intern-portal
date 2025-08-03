@@ -1,0 +1,10 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "referralCode": "REF123456",
+  "totalDonations": 18500,
+  "rank": 5,
+  "referrals": 15,
+  "thisMonth": 3200,
+  "lastMonth": 2800
+} 

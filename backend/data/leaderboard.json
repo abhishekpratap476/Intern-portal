@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Sarah Johnson",
+    "amount": 45000,
+    "referrals": 25,
+    "rank": 1
+  },
+  {
+    "name": "Michael Chen",
+    "amount": 38000,
+    "referrals": 22,
+    "rank": 2
+  },
+  {
+    "name": "Emily Rodriguez",
+    "amount": 32000,
+    "referrals": 18,
+    "rank": 3
+  },
+  {
+    "name": "David Kim",
+    "amount": 28000,
+    "referrals": 20,
+    "rank": 4
+  },
+  {
+    "name": "John Doe",
+    "amount": 18500,
+    "referrals": 15,
+    "rank": 5
+  },
+  {
+    "name": "Lisa Wang",
+    "amount": 16500,
+    "referrals": 12,
+    "rank": 6
+  },
+  {
+    "name": "Alex Thompson",
+    "amount": 14200,
+    "referrals": 14,
+    "rank": 7
+  },
+  {
+    "name": "Maria Garcia",
+    "amount": 12800,
+    "referrals": 10,
+    "rank": 8
+  },
+  {
+    "name": "James Wilson",
+    "amount": 11500,
+    "referrals": 11,
+    "rank": 9
+  },
+  {
+    "name": "Rachel Brown",
+    "amount": 9800,
+    "referrals": 8,
+    "rank": 10
+  },
+  {
+    "name": "Kevin Lee",
+    "amount": 8700,
+    "referrals": 9,
+    "rank": 11
+  },
+  {
+    "name": "Amanda Davis",
+    "amount": 7600,
+    "referrals": 7,
+    "rank": 12
+  },
+  {
+    "name": "Robert Taylor",
+    "amount": 6800,
+    "referrals": 6,
+    "rank": 13
+  },
+  {
+    "name": "Jennifer Martinez",
+    "amount": 5900,
+    "referrals": 5,
+    "rank": 14
+  },
+  {
+    "name": "Christopher Anderson",
+    "amount": 5200,
+    "referrals": 4,
+    "rank": 15
+  },
+  {
+    "name": "Nicole White",
+    "amount": 4800,
+    "referrals": 6,
+    "rank": 16
+  },
+  {
+    "name": "Daniel Clark",
+    "amount": 4200,
+    "referrals": 3,
+    "rank": 17
+  },
+  {
+    "name": "Stephanie Lewis",
+    "amount": 3800,
+    "referrals": 4,
+    "rank": 18
+  },
+  {
+    "name": "Matthew Hall",
+    "amount": 3400,
+    "referrals": 2,
+    "rank": 19
+  },
+  {
+    "name": "Jessica Allen",
+    "amount": 2900,
+    "referrals": 3,
+    "rank": 20
+  }
+] 
