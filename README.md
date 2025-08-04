@@ -21,19 +21,19 @@ A comprehensive React.js application for managing intern donations, tracking pro
 *Main dashboard with user statistics, progress tracking, and quick actions*
 
 ### 📊 Leaderboard
-![Leaderboard](mages/top_performer.png)
+![Leaderboard](images/top_performer.png)
 *Interactive leaderboard with bar graph visualization of top performers*
 
 ### 🏆 Rewards Section
-![Rewards](mages/reward.png)
+![Rewards](images/reward.png)
 *Achievement system with progress tracking and unlockable rewards*
 
 ### 👤 User Profile
-![Profile](mages/profile.png)
+![Profile](images/profile.png)
 *Comprehensive user profile with donation history and statistics*
 
 ### 🔒 Login
-![Login](mages/login.png)
+![Login](images/login.png)
 *Comprehensive llogin page for the user wiyh dummy authentication data*
 
 ## 🛠 Tech Stack
