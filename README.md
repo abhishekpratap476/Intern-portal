@@ -18,20 +18,24 @@ A comprehensive React.js application for managing intern donations, tracking pro
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Dashboard)
+![Dashboard](images/dashboard.png)
 *Main dashboard with user statistics, progress tracking, and quick actions*
 
 ### 📊 Leaderboard
-![Leaderboard](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Leaderboard)
+![Leaderboard](mages/top_performer.png)
 *Interactive leaderboard with bar graph visualization of top performers*
 
 ### 🏆 Rewards Section
-![Rewards](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Rewards+Section)
+![Rewards](mages/reward.png)
 *Achievement system with progress tracking and unlockable rewards*
 
 ### 👤 User Profile
-![Profile](https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=Profile+Page)
+![Profile](mages/profile.png)
 *Comprehensive user profile with donation history and statistics*
+
+### 🔒 Login
+![Login](mages/login.png)
+*Comprehensive llogin page for the user wiyh dummy authentication data*
 
 ## 🛠 Tech Stack
 
@@ -348,9 +352,6 @@ npm install
 3. **Testing**: Ensure all tests pass
 4. **Documentation**: Update relevant documentation
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -361,19 +362,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-### Getting Help
-- **Issues**: Create an issue on GitHub
-- **Discussions**: Use GitHub Discussions
-- **Documentation**: Check this README and component files
-- **Community**: Join our community channels
-
 ### Contact Information
-- **Email**: support@internapp.com
-- **GitHub**: [github.com/yourusername/internapp](https://github.com/yourusername/internapp)
-- **Documentation**: [docs.internapp.com](https://docs.internapp.com)
+- **Email**: abhishekpratap476@gmail.com
 
 ---
 
-**Made with ❤️ by the Intern Portal Team**
 
 *Empowering interns through modern technology and community engagement* 
