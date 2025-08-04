@@ -2,7 +2,6 @@
 
 A comprehensive React.js application for managing intern donations, tracking progress, and fostering community engagement through a modern, responsive interface.
 
-![Intern Portal](https://via.placeholder.com/1200x400/3B82F6/FFFFFF?text=Intern+Portal)
 
 ## 🎯 Core Features
 
